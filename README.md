@@ -4,7 +4,7 @@
 Selamat datang di **LaukPedia**! Platform catering online yang menyediakan berbagai pilihan makanan segar dan lezat dengan pengalaman pemesanan yang mudah dan menyenangkan.
 
 **Tagline:** _"Lauk Segar, Hari Lebih Nikmat"_ 🌟
-
+Link https://saas2bulan.netlify.app/
 ---
 
 ## 🎯 Fitur Utama
