@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍲 LaukPedia - Platform Catering Modern
 
 Selamat datang di **LaukPedia**! Platform catering online yang menyediakan berbagai pilihan makanan segar dan lezat dengan pengalaman pemesanan yang mudah dan menyenangkan.
@@ -262,3 +263,6 @@ LaukPedia © 2026 - Built with ❤️ using Next.js & MySQL
 ---
 
 **Siap memesan? Mari kita mulai!** 🍲✨
+=======
+# resrotan1
+>>>>>>> 537a137a4b1cf4b23dddc753894352831acd55c8
